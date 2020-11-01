@@ -1,3 +1,8 @@
 name: Skinner
 version: 1.0.0
 main: me.kernelerror.skinner.SkinnerPlugin
+
+commands:
+  skin:
+    description: Sets player's skin
+    usage: /skin <url>
